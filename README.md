@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LLC one-word domains still available to buy.
 
-This dataset contains 4,256 .LLC one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,259 .LLC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LLC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=llc-oneword-domains&utm_content=description.top) (4,253) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.LLC one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.llc        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.llc      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.llc        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.llc      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.llc  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.llc      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.llc  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.LLC one word domains]
 | abatic.llc     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.llc    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.llc   | available | 50       | 1%     | 8      |           |         |         |
-| abc.llc        | available | 102      | 41%    | 3      |           |         |         |
+| abc.llc        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.llc  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.llc  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.llc | available | 56       | 1%     | 10     |           |         |         |
