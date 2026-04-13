@@ -67,7 +67,7 @@ print(df.head())
 | gather.llc   | available | $19.99    | $54.99        | 96             | 39     | 6      | name.com          |
 | cure.llc     | resell    | $19.99    | $54.99        | 72             | 26     | 4      | GoDaddy.com, LLC  |
 | power.llc    | premium   | $1,300    | $1,300        | 98             | 62     | 5      | namecheap         |
-| hidden.llc   | available | $19.99    | $54.99        | 65             | 35     | 6      | name.com          |
+| hidden.llc   | available | $19.99    | $54.99        | 65             | 34     | 6      | name.com          |
 | discover.llc | resell    | —         | —             | 66             | 75     | 8      | Sav.com, LLC      |
 | cloud.llc    | premium   | $650      | $650          | 70             | 59     | 5      | namecheap         |
 | chill.llc    | available | $19.99    | $54.99        | 72             | 33     | 5      | name.com          |
@@ -79,10 +79,10 @@ print(df.head())
 | mass.llc     | available | $19.99    | $54.99        | 78             | 30     | 4      | name.com          |
 | wallet.llc   | resell    | —         | —             | 74             | 54     | 6      | Dynadot Inc       |
 | business.llc | premium   | $3,250    | $3,250        | 100            | 53     | 8      | namecheap         |
-| wicked.llc   | available | $19.99    | $54.99        | 70             | 30     | 6      | name.com          |
+| cipher.llc   | available | $19.99    | $44.99        | 86             | 29     | 6      | name.com          |
 | stellar.llc  | resell    | —         | —             | 78             | 49     | 7      | Porkbun LLC       |
 | true.llc     | premium   | $2,500    | $2,500        | 86             | 52     | 4      | name.com          |
-| cipher.llc   | available | $19.99    | $44.99        | 86             | 29     | 6      | name.com          |
+| second.llc   | available | $19.99    | $54.99        | 120            | 28     | 6      | name.com          |
 | momentum.llc | resell    | —         | —             | 74             | 45     | 8      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
