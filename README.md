@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .llc one-word domains from Unique 
 
 **Public extract:** 8,596 rows · **Live catalog:** 8,596 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/llc`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | chill.llc    | available | $19.99    | $54.99        | 72             | 33     | 5      | name.com          |
 | hello.llc    | resell    | —         | —             | 92             | 70     | 5      | Spaceship, Inc.   |
 | ace.llc      | premium   | $625      | $625          | 88             | 57     | 3      | name.com          |
-| ethereal.llc | available | $19.99    | $54.99        | 88             | 32     | 8      | name.com          |
+| ethereal.llc | available | $19.99    | $54.99        | 88             | 31     | 8      | name.com          |
 | get.llc      | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 41 |
 | good.llc     | premium   | $625      | $625          | 82             | 55     | 4      | name.com          |
 | mass.llc     | available | $19.99    | $54.99        | 78             | 30     | 4      | name.com          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
