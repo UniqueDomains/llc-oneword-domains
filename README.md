@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .llc one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,379 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,379 domains · **Median ask:** $108.89 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,379 domains · **Median ask:** $192.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/llc`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/llc`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LLC one-word domain c
 
 ### Files
 
-- `llc.csv` — public CSV extract (1,000 rows)
-- `llc.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `llc.csv`, public CSV extract (1,000 rows)
+- `llc.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| barup.llc     | available | $19.99    | —             | 82             | 2      | 6      | name.com        |
-| forces.llc    | available | $19.99    | —             | 82             | 12     | 6      | name.com        |
-| geton.llc     | available | $19.99    | —             | 82             | 10     | 6      | name.com        |
-| matcha.llc    | available | $19.99    | —             | 86             | 39     | 6      | name.com        |
-| dogsit.llc    | available | $19.99    | —             | 96             | 2      | 6      | name.com        |
-| playon.llc    | available | $19.99    | —             | 80             | 14     | 7      | name.com        |
-| QandA.llc     | available | $54.98    | —             | 80             | 10     | 7      | namecheap       |
-| hangon.llc    | available | $19.99    | —             | 82             | 6      | 7      | name.com        |
-| pierogi.llc   | available | $19.99    | —             | 82             | 7      | 7      | name.com        |
-| stirup.llc    | available | $19.99    | —             | 82             | 3      | 7      | name.com        |
-| getlife.llc   | available | $19.99    | —             | 80             | 5      | 8      | name.com        |
-| Snickers.llc  | available | $54.98    | —             | 80             | 10     | 8      | namecheap       |
-| shortcuts.llc | available | $19.99    | —             | 48             | 41     | 10     | name.com        |
-| wallet.llc    | resell    | —         | —             | 74             | 55     | 6      | Dynadot Inc     |
-| regions.llc   | premium   | $2,500    | —             | 64             | 59     | 7      | name.com        |
-| robots.llc    | resell    | —         | —             | 62             | 47     | 6      | Spaceship, Inc. |
-| cars.llc      | premium   | $1,250    | —             | 66             | 47     | 4      | name.com        |
-| sites.llc     | available | $19.99    | —             | 53             | 26     | 5      | name.com        |
-| stories.llc   | resell    | —         | —             | 58             | 36     | 7      | Dynadot Inc     |
-| Ryan.llc      | premium   | $700      | $700          | 60             | 44     | 4      | namecheap       |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| hum.llc          | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| searchengine.llc | resell    | $19.99    | —             | high           | low    | 13     | GoDaddy.com, LLC  |
+| Ava.llc          | premium   | $625      | —             | high           | medium | 3      | name.com          |
+| ive.llc          | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| trap.llc         | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
+| cap.llc          | premium   | $625      | —             | high           | low    | 3      | name.com          |
+| xvi.llc          | available | $19.99    | $54.99        | medium         | low    | 3      | name.com          |
+| drone.llc        | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 45 |
+| des.llc          | premium   | $1,875    | —             | high           | low    | 3      | name.com          |
+| base.llc         | available | $19.99    | —             | medium         | medium | 4      | name.com          |
+| ideal.llc        | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 49 |
+| dot.llc          | premium   | $3,125    | —             | high           | medium | 3      | name.com          |
+| bump.llc         | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| radar.llc        | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
+| ear.llc          | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
+| comp.llc         | available | $19.99    | $54.99        | medium         | low    | 4      | name.com          |
+| short.llc        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| end.llc          | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
+| died.llc         | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| sweet.llc        | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 29 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .llc domains. The set includes direct generics such as tips.llc and finals.llc, action-oriented words like getup.llc, and more distinctive terms such as matcha.llc. For founders, the main question is whether the word is easy to remember, easy to say, and specific enough to support a business identity. For investors, the focus is whether the term has clear commercial meaning and a sensible entry price. With a median ask of $108.92, price discipline matters less than name quality, but renewal economics and trademark exposure still deserve a close look before choosing.
+This set covers 11,379 one-word .LLC domain names, each a single dictionary or coined word paired with the .LLC extension. The median ask across the set sits near $193, putting most entries within reach for a quick pickup or a first-look comparison. Names range from everyday words like forces.llc and girls.llc to compact phrases such as letitbe.llc and hangon.llc, giving founders a shortlist of ownable, easy-to-say options and giving investors a wide, single-extension pool to price-check for spread and coverage.
 
-- One-word .llc names with broad commercial positioning
-- Median ask is $108.92 across 11,375 domains
-- Favor words that are clear, memorable, and easy to say
-- Check trademark risk before buying category terms
+- 11,379 one-word .LLC domain names in this set
+- Median ask near $193 across the full list
+- One-word format: short, spoken-friendly, easy to spell
+- Updated daily to reflect current listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
