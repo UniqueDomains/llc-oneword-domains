@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .llc one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,010 domains · **Median ask:** $100.59 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/llc`
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | des.llc          | premium   | $1,875    | —             | high           | low    | 3      | name.com          |
 | xvi.llc          | available | $19.99    | $54.99        | medium         | low    | 3      | name.com          |
 | ideal.llc        | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 49 |
-| dot.llc          | premium   | $3,125    | —             | high           | medium | 3      | name.com          |
+| dot.llc          | premium   | $3,250    | $3,250        | medium         | medium | 3      | namecheap         |
 | aery.llc         | available | $11.98    | $54.98        | low            | low    | 4      | namecheap         |
 | radar.llc        | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
 | ear.llc          | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
