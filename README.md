@@ -1,10 +1,10 @@
-# Available .LLC One-Word Domains (28,429)
+# Available .LLC One-Word Domains (30,408)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C429%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C408%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .llc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,429 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,408 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,429 domains · **Median ask:** $124.56 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 30,408 domains · **Median ask:** $119.00 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/llc`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | afl.llc      | available | $11.98    | $54.98        | high           | low    | 3      | namecheap        |
 | kepler.llc   | resell    | —         | —             | medium         | low    | 6      | —                |
 | adi.llc      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| fec.llc      | available | $33.20    | $33.20        | high           | low    | 3      | cloudflare       |
+| bse.llc      | available | $14.99    | $42.99        | medium         | low    | 3      | namesilo         |
 | offers.llc   | resell    | —         | —             | high           | low    | 6      | —                |
 | asa.llc      | premium   | $640      | $640          | high           | low    | 3      | namesilo         |
-| gpu.llc      | available | $11.98    | $54.98        | high           | medium | 3      | namecheap        |
+| cdf.llc      | available | $10.55    | $34.36        | high           | low    | 3      | spaceship        |
 | globally.llc | resell    | —         | —             | high           | low    | 8      | Sav.com, LLC     |
-| buy.llc      | premium   | $2,500.50 | $3,450        | high           | medium | 3      | unstoppable      |
-| idk.llc      | available | $19.99    | —             | medium         | low    | 3      | name.com         |
-| granddad.llc | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
 | cap.llc      | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship        |
-| iwo.llc      | available | $33.20    | $33.20        | medium         | low    | 3      | cloudflare       |
-| hispanic.llc | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| fec.llc      | available | $33.20    | $33.20        | high           | low    | 3      | cloudflare       |
+| granddad.llc | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
 | car.llc      | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo         |
-| pun.llc      | available | $14.99    | $42.99        | high           | low    | 3      | namesilo         |
+| gpu.llc      | available | $11.98    | $54.98        | high           | medium | 3      | namecheap        |
+| hispanic.llc | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC |
+| cla.llc      | premium   | $53.92    | $53.92        | high           | low    | 3      | namesilo         |
+| hsi.llc      | available | $10.55    | $34.36        | medium         | low    | 3      | spaceship        |
 | fda.llc      | premium   | $1,250    | $1,250        | high           | low    | 3      | name.com         |
-| soe.llc      | available | $10.55    | $34.36        | medium         | low    | 3      | spaceship        |
-| gay.llc      | premium   | $1,995    | $1,995        | high           | medium | 3      | namesilo         |
-| ahab.llc     | available | $11.98    | $54.98        | medium         | low    | 4      | namecheap        |
+| idk.llc      | available | $13.50    | —             | medium         | low    | 3      | unstoppable      |
+| hub.llc      | premium   | $1,995    | $1,995        | high           | medium | 3      | namesilo         |
+| iwo.llc      | available | $33.20    | $33.20        | medium         | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,429 live domains                        |
+| 1,000-row public sample | 30,408 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 14 high-demand names under $2,500          |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LLC One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
